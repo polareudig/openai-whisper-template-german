@@ -31,4 +31,7 @@ Die transkribierten Dateien werden im Ordner `output` gespeichert. Dort findest 
    git clone https://github.com/polareudig/openai-whisper-template-german
    cd openai-whisper-template-german
 
+## Lizenz
+
+
 Dieses Projekt steht unter der Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0).
